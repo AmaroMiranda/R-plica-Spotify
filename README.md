@@ -1,2 +1,2 @@
-# R-plica-Spotify
-Réplica do Spotify feita noa jornada fullstack da hashtag treinamentos
+# replica-spotify
+Réplica do Spotify feita na jornada fullstack da hashtag treinamentos
